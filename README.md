@@ -8,8 +8,8 @@ Matricula: 802444
 
 ## Tela de inspeção com navegador
 
-c:\Users\Guilherme\github-classroom\ICEI-DIW\trabalho-pratico-semana-01-GuilhermeS4nt316\Rede.png
+![Inspeção de Conexão](c:\Users\Guilherme\github-classroom\ICEI-DIW\trabalho-pratico-semana-01-GuilhermeS4nt316\Rede.png)
 
 ## Tela de projeto no Replit
 
-c:\Users\Guilherme\github-classroom\ICEI-DIW\trabalho-pratico-semana-01-GuilhermeS4nt316\Rede.png
+![Projeto Hello World no Replit](c:\Users\Guilherme\github-classroom\ICEI-DIW\trabalho-pratico-semana-01-GuilhermeS4nt316\Rede.png)
