@@ -12,4 +12,4 @@ Matricula: 802444
 
 ## Tela de projeto no Replit
 
-![Projeto Hello World no Replit](c:\Users\Guilherme\github-classroom\ICEI-DIW\trabalho-pratico-semana-01-GuilhermeS4nt316\Rede.png)
+![Projeto Hello World no Replit](Rede.png)
