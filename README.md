@@ -8,7 +8,7 @@ Matricula: 802444
 
 ## Tela de inspeção com navegador
 
-![Inspeção de Conexão](c:\Users\Guilherme\github-classroom\ICEI-DIW\trabalho-pratico-semana-01-GuilhermeS4nt316\Rede.png)
+![Inspeção de Conexão](Rede.png)
 
 ## Tela de projeto no Replit
 
